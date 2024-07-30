@@ -46,6 +46,8 @@ You can install the required libraries using pip:
 ```bash
 pip install numpy==1.22.3 tensorflow==2.4.1 keras==2.3.1 matplotlib==3.5.1 mne==0.24.0 scikit-learn==1.0.2 scipy==1.7.3 pandas==1.4.3 hdf5==1.10.6
 
+```
+
 Usage
 **Preprocess the data:
 ```bash
