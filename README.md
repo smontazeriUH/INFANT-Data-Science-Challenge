@@ -9,8 +9,7 @@ This repository contains the following files:
 Prerequisites:
 The following libraries and versions should be installed in the environment:
 
-Python -> 3.8.13
-
+Python -> 3.8.13 
 Numpy -> 1.22.3
 
 Tensorflow ->2.4.1
