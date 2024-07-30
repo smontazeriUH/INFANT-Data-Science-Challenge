@@ -49,14 +49,14 @@ pip install numpy==1.22.3 tensorflow==2.4.1 keras==2.3.1 matplotlib==3.5.1 mne==
 ```
 
 Usage
-**Preprocess the data:
+**Preprocess the data:**
 ```bash
-python 01_preprocess.py
+python 01_preprocess.py```
 
-**Prepare testing samples:
+**Prepare testing samples:**
 ```bash
-python 04_read_test_files.py
+python 04_read_test_files.py```
 
-**Test the CNN classifiers:
+**Test the CNN classifiers:**
 ```bash
-python 05_testCNN.py
+python 05_testCNN.py```
