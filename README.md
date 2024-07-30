@@ -10,12 +10,21 @@ Prerequisites:
 The following libraries and versions should be installed in the environment:
 
 Python -> 3.8.13
+
 Numpy -> 1.22.3
+
 Tensorflow ->2.4.1
+
 Keras -> 2.3.1
+
 Matplotlib -> 3.5.1
+
 Mne -> 0.24.0
+
 Scikit-learn -> 1.0.2
+
 Scipy -> 1.7.3
+
 Pandas -> 1.4.3
+
 Hdf5 -> 1.10.6
